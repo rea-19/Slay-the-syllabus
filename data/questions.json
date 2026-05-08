@@ -1,0 +1,18 @@
+[
+	{
+		"id": 1,
+		"difficulty": easy,
+		"question": "what is Newton's First Law?"
+		"choices": ["Objects at rest stay at rest", "F = ma", "Every action has a reaction", "Energy is conserved"],
+		"correct": 0,
+		"damage": 10
+	},
+	{
+		"id": 2,
+		"difficulty": "hard",
+		"question": "A ball is thrown at 20 m/s at 45°. What is the max height?",
+		"choices": ["5 m", "10.2 m", "15 m", "20 m"],
+		"correct": 1,
+		"damage": 30
+	}
+]
