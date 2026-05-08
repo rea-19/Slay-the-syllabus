@@ -1,0 +1,34 @@
+[gd_scene format=3 uid="uid://cfv7e0dgw1tl4"]
+
+[node name="Card" type="Panel" unique_id=1032083373]
+
+[node name="Label" type="Label" parent="." unique_id=1914876161]
+layout_mode = 0
+offset_left = 1299.0
+offset_top = 717.0
+offset_right = 1861.0
+offset_bottom = 759.0
+text = "Difficulty: "
+
+[node name="Label2" type="Label" parent="." unique_id=63607872]
+layout_mode = 0
+offset_left = 1307.0
+offset_top = 767.0
+offset_right = 1682.0
+offset_bottom = 791.0
+text = "Attack:"
+
+[node name="Label3" type="Label" parent="." unique_id=1507376741]
+layout_mode = 0
+offset_left = 1429.157
+offset_top = 799.3331
+offset_right = 1842.0
+offset_bottom = 840.0
+
+[node name="Label4" type="Label" parent="." unique_id=130768302]
+layout_mode = 0
+offset_left = 1284.863
+offset_top = 833.2108
+offset_right = 1674.0
+offset_bottom = 860.0
+text = "Animation Player"

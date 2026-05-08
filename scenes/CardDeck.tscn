@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://dh2u3k48o2oso"]
+
+[node name="CardDeck" type="Node2D" unique_id=1355990862]
+
+[node name="HBoxContainer" type="HBoxContainer" parent="." unique_id=391201316]
+offset_left = 1345.6
+offset_top = 189.0
+offset_right = 2306.0
+offset_bottom = 1319.0
